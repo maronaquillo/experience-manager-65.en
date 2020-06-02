@@ -9,7 +9,7 @@ seo-description: An description of the essential capabilities of AEM 6.5
 
 ## AEM Sites {#aem-sites}
 
-AEM Sites is a content management system within Adeobe Experience Manager that gives you one place to create, manage, and deliver digital experiences across websites, mobile sites, and on-site screens to make them global in reach, yet personally relevant and engaging. [Learn more](http://www.adobe.com/marketing-cloud/enterprise-content-management/web-cms.html) or [dig into some of our new video feature tutorials.](https://helpx.adobe.com/experience-manager/kt/sites/index/aem-6-5-sites.html)
+AEM Sites is a content management system within Adobe Experience Manager that gives you one place to create, manage, and deliver digital experiences across websites, mobile sites, and on-site screens to make them global in reach, yet personally relevant and engaging. [Learn more](http://www.adobe.com/marketing-cloud/enterprise-content-management/web-cms.html) or [dig into some of our new video feature tutorials.](https://helpx.adobe.com/experience-manager/kt/sites/index/aem-6-5-sites.html)
 
 ## AEM Assets {#aem-assets}
 
